@@ -1,3 +1,5 @@
+[![MasterHead](https://https://www.canva.com/design/DAFwUpHpMxk/c9l5wPy0ym6ks6E37W-4Fw/edit?utm_content=DAFwUpHpMxk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+
 <h1 align="center">Hi 👋, I'm Khush</h1>
 <h3 align="center">A passionate software developer with a love for turning ideas into functional, efficient, and user-friendly applications..</h3>
 

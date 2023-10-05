@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khush</h1>
-<h3 align="center">A passionate software developer with a love for turning ideas into functional, efficient, and user-friendly applications. My journey in the world of programming started with a curiosity about how things work, and it has since evolved into a full-fledged career.</h3>
+<h3 align="center">A passionate software developer with a love for turning ideas into functional, efficient, and user-friendly applications..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush3718&label=Profile%20views&color=0e75b6&style=flat" alt="khush3718" /> </p>

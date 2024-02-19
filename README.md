@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **khushh3718@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://blue-pauletta-16.tiiny.site)
+- 📄 Know about my experiences: [My Resume](https://pink-sybille-45.tiiny.site/)
 
 - ⚡ Fun fact: **I think I'm funny**
 

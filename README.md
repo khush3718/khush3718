@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/khush3718/khush3718/assets/74204845/7733ba0b-b259-482f-9206-3b36a639906b)
 
 
-<h1 align="center">Hi 👋, I'm Khush</h1>
 <h3 align="center">A passionate software developer with a love for turning ideas into functional, efficient, and user-friendly applications..</h3>
 
 

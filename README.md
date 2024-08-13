@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences: [My Resume](https://pink-sybille-45.tiiny.site/)
 
+- 🔗 Visit my personal website : [portfolio](https://khushhh.vercel.app/)
+
 - ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>

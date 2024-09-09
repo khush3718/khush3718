@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **khushh3718@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://pink-sybille-45.tiiny.site/)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZWSajRRmjq8n7WZdaS6TijkOZ5BOVRrd/view?usp=sharing)
 
 - 🔗 Visit my personal website : [portfolio](https://khushhh.vercel.app/)
 

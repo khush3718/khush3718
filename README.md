@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/khush3718/khush3718/assets/74204845/7733ba0b-b259-482f-9206-3b36a639906b)
 
 
-<h3 align="center">A passionate software developer with a love for turning ideas into functional, efficient, and user-friendly applications..</h3>
+<h3 align="center">A software developer with a love for turning ideas into functional, efficient, and user-friendly applications..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush3718&label=Profile%20views&color=0e75b6&style=flat" alt="khush3718" /> </p>

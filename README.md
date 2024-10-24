@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning: **React Native , WordPress , NLP**
 
-- 💬 Ask me about: **NodeJs , MERN stack**
-
 - 📫 How to reach me: **khushh3718@gmail.com**
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZWSajRRmjq8n7WZdaS6TijkOZ5BOVRrd/view?usp=sharing)

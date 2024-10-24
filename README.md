@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZWSajRRmjq8n7WZdaS6TijkOZ5BOVRrd/view?usp=sharing)
 
-- 🔗 Visit my personal website : [portfolio](https://khushhh.vercel.app/)
-
 - ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>

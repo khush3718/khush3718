@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush3718&label=Profile%20views&color=0e75b6&style=flat" alt="khush3718" /> </p>
 
-- 🌱 I’m currently learning: **React Native , WordPress , NLP**
+- 🌱 I’m currently learning: **n8n , Agentic AI , MCP**
 
 - 📫 How to reach me: **khushh3718@gmail.com**
 
